@@ -27,7 +27,3 @@ To run the project locally, clone the repository and open `index.html` in your w
 * HTML
 * CSS (with **Tailwind CSS**)
 * JavaScript
-
-## Author
-
-* priyasray
