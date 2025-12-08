@@ -1,27 +1,33 @@
 # Portfolio Website
 
-This is my personal portfolio website, created for practice and learning web development. I built this project with the help of a YouTube tutorial. The website is designed to showcase my work, skills, and personal information in a clean and modern layout. Tailwind CSS was used for styling, and JavaScript adds basic interactivity.
+## Project Description
+
+This is a **simple portfolio website** built for web development practice. It serves as a personal website designed to showcase my work, skills, and personal information in a clean and modern layout.
+
+* **Styling:** Tailwind CSS was used for styling the site.
+* **Interactivity:** JavaScript adds basic interactivity.
 
 ## Features
-- Modern and clean UI design  
-- Fully responsive layout for mobile and desktop  
-- Project showcase section  
-- About section with personal introduction  
-- Contact section (non-functional placeholder)  
-- Built using HTML, CSS, JavaScript, and Tailwind CSS CDN  
 
-## Technologies Used
-- HTML  
-- CSS  
-- JavaScript  
-- Tailwind CSS (via CDN)  
+* **About Me:** A detailed introduction.
+* **Services:** Section highlighting professional services offered.
+* **Portfolio/Work:** Showcase of previous projects.
+* **Contact Form:** A "Get in touch" section for inquiries.
 
-## How to Run
-Simply open the `index.html` file in any web browser.  
-You can also view it in your local server (example): http://127.0.0.1:5500/index.html
+## Getting Started
 
-## Acknowledgements
-- This project was created with the help of a YouTube tutorial, which guided me in learning Tailwind CSS and modern web design techniques.
+The site is deployed and accessible via **GitHub Pages**.
+
+* **Live Demo:** [Insert the GitHub Pages URL here, e.g., `https://priyasray.github.io/portfolio-website/`]
+
+To run the project locally, clone the repository and open `index.html` in your web browser.
+
+## Built With
+
+* HTML
+* CSS (with **Tailwind CSS**)
+* JavaScript
 
 ## Author
-- Priyas Ray
+
+* priyasray
