@@ -18,7 +18,7 @@ This is a **simple portfolio website** built for web development practice. It se
 
 The site is deployed and accessible via **GitHub Pages**.
 
-* **Live Demo:** [Insert the GitHub Pages URL here, e.g., `https://priyasray.github.io/portfolio-website/`]
+* **Live Demo:** https://priyasray.github.io/portfolio-website
 
 To run the project locally, clone the repository and open `index.html` in your web browser.
 
